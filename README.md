@@ -13,8 +13,7 @@ Project consists of performing penetration test on a Linux machine called "Pelic
 
 - <b>Nmap</b> 
 - <b>Searchsploit</b>
-- <b>Smbclient</b>
-- <b>Smbmap</b>
+
 
 <h2>Environments Used </h2>
 
@@ -23,7 +22,7 @@ Project consists of performing penetration test on a Linux machine called "Pelic
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Running Inital Nmap Fast Scan against target: <br/>
+Running Inital Nmap Fast Scan against Target: <br/>
 <img src="https://github.com/JarredWhite1/PG-Practice-Zino/blob/main/nmapinital.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -39,7 +38,7 @@ Nmap Advanced Scan Open Ports and Services:  <br/>
 <img src="https://github.com/JarredWhite1/PG-Practice-Zino/blob/main/nmapAdv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Nm:  <br/>
+Nmjhjhlkjl:  <br/>
 <img src="https://github.com/JarredWhite1/LLMNR-Poisioning/blob/main/responder5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
