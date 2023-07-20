@@ -1,11 +1,11 @@
 # PG-Practice-Pelican
 
 
-<h1>Zino Machine Writeup</h1>
+<h1>Pelican Machine Writeup</h1>
 
 
 <h2>Description</h2>
-Project consists of performing penetration test on a Linux machine called "Zino".
+Project consists of performing penetration test on a Linux machine called "Pelican".
 <br />
 
 
